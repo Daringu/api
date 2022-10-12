@@ -1,0 +1,20 @@
+.ff {
+    text-align: center;
+    color: aqua;
+}
+
+.main {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.inner {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: black;
+}
+
+.under {
+    text-align: center;
+}

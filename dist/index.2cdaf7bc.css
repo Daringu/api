@@ -1,0 +1,22 @@
+.ff {
+  text-align: center;
+  color: #0ff;
+}
+
+.main {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+.inner {
+  background-color: #000;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.under {
+  text-align: center;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
